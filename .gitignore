@@ -1,0 +1,5 @@
+camera/
+dataset_sorted_mm/
+dataset_standardized/
+dataset_unused_data/
+*.pth
