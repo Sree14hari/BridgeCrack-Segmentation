@@ -3,3 +3,8 @@ dataset_sorted_mm/
 dataset_standardized/
 dataset_unused_data/
 *.pth
+Negative/
+Positive/
+Crack/
+dataset_final/
+Bridge/dataset_final/
